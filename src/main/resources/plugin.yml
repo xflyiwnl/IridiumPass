@@ -1,0 +1,14 @@
+name: IridiumPass
+version: '${project.version}'
+main: me.xflyiwnl.iridiumpass.Main
+api-version: 1.16
+prefix: IridiumPass
+authors: [ xflyiwnl ]
+depend: [ Towny ]
+description: Плагин на паспорт
+website: vk.com/iridiumstudio
+
+commands:
+  pass:
+    aliases:
+      - iridiumpass
